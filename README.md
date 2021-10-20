@@ -48,6 +48,7 @@ Pew, pew, pew. Shoot bullets from a triangle(ship) to destroy low poly circles (
 #### Brick Break
 Since early gaming was around, [aquanoid](https://www.playdosgames.com/online/aquanoid/) has shown us that mankind likes to break things, specifically bricks. You know you want to break bricks so why not make some bricks to break.
 #### Minesweeper
+A grid with some number of hidden mines. Click to clear areas, see nearby mines, flag mines, or EXPLODE.
 #### Pong
 One of the oldest of video games, this sure needs an upgrade like computer player, difficulty, color, sound, lights.... [the game](https://www.ponggame.org)
 #### Scattergories
@@ -56,7 +57,9 @@ Generate 12 random topics (ice cream flavor, programming language, etc), a rando
 Three by three grid, Xs and Os, alternating turns, three in a row for a win ... does this need more of an explanation [the game](https://www.google.com/search?q=tic%20tac%20toe)
 #### Tetris
 ### Sudoku Generator/Solver
+Nine by nine grid, filled with one through nine with each row, column, and block containing no repeats. Nein, nine isn't used too much. *Start creating the solver first.*
 ### TOTP Generator
+You know those 6 digit random digits that change every 30 seconds to verify that you are you, well someone needs to generate them.
 ### Typing Test
 Want to measure how fast you actually are when you sit in front of your computer? No, well some people do, and to do that we need to measure how much they type, over a period of time, while counting typos.
 
@@ -76,6 +79,7 @@ Just because you don't like talking to humans doesn't mean there isn't someone o
 
 ## Multiuser Interactive
 ### Fantasy Football
+Create imaginary teams with definitely real people. Create this app to manage and track your friends...team.
 ### Kanban board
 You've selected an idea and now need to keep yourself and/or team organized, but alas [trello](https://trello.com) is too complicated. Why not create a simpler version, like a much simpler version.
 ### Messaging app
