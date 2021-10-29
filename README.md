@@ -47,6 +47,8 @@ Fly around while blasting enemies that convenient line up in groups and don't do
 Pew, pew, pew. Shoot bullets from a triangle(ship) to destroy low poly circles (asteroids) and trapezoids(alien). Score arbitary points, fly around, and most important don't die like your bullets will.
 #### Brick Break
 Since early gaming was around, [aquanoid](https://www.playdosgames.com/online/aquanoid/) has shown us that mankind likes to break things, specifically bricks. You know you want to break bricks so why not make some bricks to break.
+#### Frogger
+Why did the chicken cross the road, because the frog couldn't. Honestly just help the frog cross the road, and avoid those cars.
 #### Minesweeper
 A grid with some number of hidden mines. Click to clear areas, see nearby mines, flag mines, or EXPLODE.
 #### Pong
