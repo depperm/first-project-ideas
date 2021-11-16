@@ -42,9 +42,15 @@ Slither around and eat apples, cause that's what snakes do. Grow proportion to t
 Three by three grid, Xs and Os, alternating turns, three in a row for a win ... does this need more of an explanation [the game](https://www.google.com/search?q=tic%20tac%20toe)
 #### Tetris
 Every configuration of four blocks orthogonally connected, you control their fall downward, complete rows, and keep it from reaching the top. Did I mention it gets faster the longer you play.
+
 ### Recreate the Greats
+#### Social Board
+Everyone wants to share personal information, but not just a single place. Make Face-page where anyone can share information that they probably shouldn't.
 #### QA Engine
 Everyone loves [stackoverflow](https://stackoverflow.com)? Can you create an app that mimics the base features: users can ask questions, users can answer questions, and users can vote on both. Do you want to up the difficulty and tort....showcase your skills, add in more of the features (user accounts, tags, reviewing, comments, etc)
+#### Seenit
+Have a question that nobody else can answer? What to answer questions about particular r/ subjects? Don't trust the internet, then make your own. Make a place where you are control.
+
 ### Other
 #### Budget/Expenses Tracker
 [Don't buy stuff you can't afford](https://www.youtube.com/watch?v=R3ZJKN_5M44&t=3s). How do you know what you can't afford, track your expenses. Adding fun charts always makes a project look nicer.
@@ -78,9 +84,16 @@ Want to measure how fast you actually are when you sit in front of your computer
 
 ## Algorithm Challenges
 There are other challenges out there beyond these listed on such sites like: [projecteuler](https://projecteuler.net/) and [codewars](https://www.codewars.com/)
-#### A*
+
+### Procedural Generation
+#### Boids
+Birds of a feather flock together. Who goes outside to see that though when you can simulate that on your computer screen.
 #### Maze generation
+Lose track of time by getting lost in the code to generate amazing mazes.
 #### Markov Generator
+Can you guess what someone is going to say n... Jinx! This basically guesses for you.
+
+### Other Algorithms
 #### Sudoku Generator/Solver
 Nine by nine grid, filled with one through nine with each row, column, and block(3x3) containing no repeats. Nein, nine isn't used too much. *Start creating the solver first.*
 #### TOTP Generator
