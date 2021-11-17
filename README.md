@@ -16,6 +16,7 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
 - [Open Source Help](#open-source-help)
   - [OS Games](#os-games)
   - [OS Other](#os-other)
+- [Other Lists](#other-lists)
 - [Other Other](#other-other)
 
 ## Visual/GUI Oriented
@@ -32,6 +33,9 @@ Since early gaming was around, [aquanoid](https://www.playdosgames.com/online/aq
 Why did the chicken cross the road, because the frog couldn't. Honestly just help the frog cross the road, and avoid those cars.
 #### Game Jam
 Sometimes all you need is a random idea and a deadline to really squeeze a project out. There are hundreds of game jams to choose from, and you will hopefully be able to produce something unique as well. Thousands of monkeys pounding on typewriters will eventually produce a shakespearean work, just think you could be that monkey.
+- [js13k](https://js13kgames.com/)
+- [itch.io jams](https://itch.io/jams)
+- [indie game jams](http://www.indiegamejams.com/)
 #### Minesweeper
 A grid with some number of hidden mines. Click to clear areas, see nearby mines, flag mines, or EXPLODE.
 #### Pacman
@@ -48,6 +52,7 @@ Three by three grid, Xs and Os, alternating turns, three in a row for a win ... 
 Every configuration of four blocks orthogonally connected, you control their fall downward, complete rows, and keep it from reaching the top. Did I mention it gets faster the longer you play.
 
 ### Recreate the Greats
+These are massive undertakings, but the best form of flattery is imitation. Like only do these if you want to work on something for a looooong time or like inflicting torture on your mind.
 #### Social Board
 Everyone wants to share personal information, but not just a single place. Make Face-page where anyone can share information that they probably shouldn't.
 #### QA Engine
@@ -103,7 +108,7 @@ Want to measure how fast you actually are when you sit in front of your computer
 There are lots of workouts out there. If you made a program to generate workouts based on time, muscle groups, and type (HITT, cardio, weight, etc) you could probably create and have all known workouts.
 
 ## Algorithm Challenges
-There are other challenges out there beyond these listed on such sites like: [projecteuler](https://projecteuler.net/) and [codewars](https://www.codewars.com/)
+There are other challenges out there beyond these listed on such sites like: [code abbey](http://www.codeabbey.com/), [projecteuler](https://projecteuler.net/) or [codewars](https://www.codewars.com/)
 
 ### Procedural Generation
 #### Maze generation
@@ -178,6 +183,17 @@ Other lists looking for help: [code triage](https://www.codetriage.com/), [githu
 [get involved](https://krita.org/en/get-involved/overview/)
 #### NASA OpenMCT <img src="https://badgen.net/badge/language/javascript/yellow"><img src="https://badgen.net/badge/language/vue/green">
 [github](https://github.com/nasa/openmct)
+
+## Other Lists
+- [what to code](https://what-to-code.com/)
+- [what to code-github](https://github.com/joereynolds/what-to-code) (maybe related to above, maybe not)
+- [Ideas for things to program](https://github.com/Divide-By-0/ideas-for-projects-people-would-use)
+- [reddit/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+- [Something you'll get a bounty for](https://www.viaprize.com/explore?category=24&sort=-featured,display_priority)
+- [I need practice programming, 49 game clone ideas](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+- [What should I make beginner programming project ideas](https://www.programmingforbeginnersbook.com/blog/what_should_i_make_beginner_programming_project_ideas/)
+- [mega project list](https://github.com/karan/Projects)
+- [Martyr2s Mega Project List](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/): kinda makes this one feel obsolete...
 
 ## Other Other
 Use someone else's app to get your ideas. Like: [ideasai](https://ideasai.net), [random idea generator](http://randomideagenerator.com), or [app name generator](https://generatorfun.com/app-name-generator)
