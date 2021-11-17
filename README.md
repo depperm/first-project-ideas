@@ -10,11 +10,13 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
   - [Recreate the Greats](#recreate-the-greats)
   - [Other](#other)
 - [Algorithm Challenges](#algorithm-challenges)
+  - [Procedural Generation](#procedural-generation) 
 - [Multi component](#multi-component)
 - [Language/Device Specific](#languagedevice-specific)
 - [Open Source Help](#open-source-help)
   - [OS Games](#os-games)
   - [OS Other](#os-other)
+- [Other Other](#other-other)
 
 ## Visual/GUI Oriented
 
@@ -28,6 +30,8 @@ Pew, pew, pew. Shoot bullets from a triangle(ship) to destroy low poly circles (
 Since early gaming was around, [aquanoid](https://www.playdosgames.com/online/aquanoid/) has shown us that mankind likes to break things, specifically bricks. You know you want to break bricks so why not make some bricks to break.
 #### Frogger
 Why did the chicken cross the road, because the frog couldn't. Honestly just help the frog cross the road, and avoid those cars.
+#### Game Jam
+Sometimes all you need is a random idea and a deadline to really squeeze a project out. There are hundreds of game jams to choose from, and you will hopefully be able to produce something unique as well. Thousands of monkeys pounding on typewriters will eventually produce a shakespearean work, just think you could be that monkey.
 #### Minesweeper
 A grid with some number of hidden mines. Click to clear areas, see nearby mines, flag mines, or EXPLODE.
 #### Pacman
@@ -50,8 +54,12 @@ Everyone wants to share personal information, but not just a single place. Make 
 Everyone loves [stackoverflow](https://stackoverflow.com)? Can you create an app that mimics the base features: users can ask questions, users can answer questions, and users can vote on both. Do you want to up the difficulty and tort....showcase your skills, add in more of the features (user accounts, tags, reviewing, comments, etc)
 #### Seenit
 Have a question that nobody else can answer? What to answer questions about particular r/ subjects? Don't trust the internet, then make your own. Make a place where you are control.
+#### Wikiwannabe
+Who hasn't used this unofficial source while researching some topic. Just think your own personal wiki that contains all that you know, this should be easy.
 
 ### Other
+#### Boids
+Birds of a feather flock together. Who goes outside to see that though when you can simulate that on your computer screen.
 #### Budget/Expenses Tracker
 [Don't buy stuff you can't afford](https://www.youtube.com/watch?v=R3ZJKN_5M44&t=3s). How do you know what you can't afford, track your expenses. Adding fun charts always makes a project look nicer.
 #### Calculator
@@ -61,12 +69,18 @@ Calculate math equations solutions so you don't have to in your head. Varying de
 3. Reverse calculations (quadratic formula, line of best fit...TI-83 stuff)
 #### Calorie Counter/Weight Tracker
 Everyone wants to lose something sometime. Let users tediously enter calories so they can track their eaten calories. They should also be able to enter their weight at varying time, vague exercise (calorie output), and have nice charts.
+#### Converter
+Doe a chocolate chip cookie have more energy than TNT. Don't google it, create a convert to convert from one format to another. Euros to dollars, pounds to kilos, calories to energy, inches to centimeters, or something else. Convert your boring life to one full of stress debugging this doozy.
+#### Death Clock/Calculator
+Predicate when you will die based on statistics for your age, gender, habits, and location. Expected use would be to change ones conditions to have a later death date, get that high score.
 #### Diceware Generator
 ![XKCD password complexity!](https://imgs.xkcd.com/comics/password_strength.png "XKCD password complexity")
 
 [In-depth explanation](https://theworld.com/~reinhold/diceware.html) This isn't necessarily the most exciting app so spruce this up with a nice GUI and options (character replacing, number of words, etc)
 #### Editor
 From the simple [notepad++](http://notepad-plus-plus.org) to the sophisticated vim, everyone loves opening, editing, and saving documents. If this seems like an easy project(I don't think you fully grasp the complexity), add complexity by adding additional features (multiple file extension support, find/replace, syntax highlighting). Make sure you can use it any where by making it cross platform, if you really want to make this project bigger.
+#### Fund comparison
+Don't know how best to invest your hard earned money. Don't believe a trusted financial planner, instead make a totally safe app that can compare any ETF, mutual fund, stock, etc. Plan how to use money you don't have yet, by relying on a *stable* market.
 #### Game of Life
 Think your life is the most boring. Make this to prove to yourself that something else holds that spot. Two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead. Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
 
@@ -75,25 +89,33 @@ Think your life is the most boring. Make this to prove to yourself that somethin
 3. All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
 [wikipedia](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+#### Goal Planner
+You're looking for a project to do, why not set a goal. How? Make a program to help you set and keep your goals, make sure the algorithm is SMART (specific, measureable, attainable, realistic, timely)
+#### Meal Planner
+Maybe an extension of a recipe organizer, plan a weeks worth of meals. Enter your fridge's contents, enter a meal that matches ingredients, automatically adjust food levels, select new meal, repeat, and then produce a shopping list. Should be really useful if ever completed.
 #### Medicine Tracker
 Its like the [remembrall](https://harrypotter.fandom.com/wiki/Remembrall) except only for medicine ... with a few other features.
 #### Recipe Organizer
 You don't have your mom's cookbook, but you do have a bunch of pinterest pins that look good, why not organize them in a single place (not pinterest obviously)? Make sure a user can modify ingredient amounts from single servings when I'm home alone and unsure about a recipe to a quadruple batch when I'm home alone and really hungry.
 #### Typing Test
 Want to measure how fast you actually are when you sit in front of your computer? No, well some people do, and to do that we need to measure how much they type, over a period of time, while counting typos.
+#### Workout Creator
+There are lots of workouts out there. If you made a program to generate workouts based on time, muscle groups, and type (HITT, cardio, weight, etc) you could probably create and have all known workouts.
 
 ## Algorithm Challenges
 There are other challenges out there beyond these listed on such sites like: [projecteuler](https://projecteuler.net/) and [codewars](https://www.codewars.com/)
 
 ### Procedural Generation
-#### Boids
-Birds of a feather flock together. Who goes outside to see that though when you can simulate that on your computer screen.
 #### Maze generation
 Lose track of time by getting lost in the code to generate amazing mazes.
 #### Markov Generator
 Can you guess what someone is going to say n... Jinx! This basically guesses for you.
+#### PRNG
+Ever want to get a random choice? Dive into how random numbers are generated and make your own generator. Maybe its xorshift, mersenne twiser, linear congruential generators, or something else. Be random.
 
 ### Other Algorithms
+#### Knapsack
+What is the most ebooks you can buy with x dollars (pages to dollar)? What is the most hot dogs you can get with x dollars? These are all very important questions. This algorithm can figure it out.
 #### Sudoku Generator/Solver
 Nine by nine grid, filled with one through nine with each row, column, and block(3x3) containing no repeats. Nein, nine isn't used too much. *Start creating the solver first.*
 #### TOTP Generator
@@ -111,6 +133,8 @@ You've selected an idea and now need to keep yourself and/or team organized, but
 Why rely on legacy, bloated apps that everyone uses to message others? Why not create a minimal, bug...feature filled app to message those closest to you.
 #### Poll taker
 Which app should you do? Why not take a poll ... with what you may ask, well do I have a project idea for you. Make sure each poll has a topic, voters are unique, and stats are ready for the poll giver to quickly see results.
+#### Wishlist
+Never know what to get people, or track things you'd still like to get while remaining surprised, then make a way to track these things. Create a list, share it with others, they can mark what they plan on getting, and it will only update other's views not the receiver's view.
 
 ## Language/Device Specific
 See also: [Open Source Help](#open-source-help)
@@ -154,3 +178,6 @@ Other lists looking for help: [code triage](https://www.codetriage.com/), [githu
 [get involved](https://krita.org/en/get-involved/overview/)
 #### NASA OpenMCT <img src="https://badgen.net/badge/language/javascript/yellow"><img src="https://badgen.net/badge/language/vue/green">
 [github](https://github.com/nasa/openmct)
+
+## Other Other
+Use someone else's app to get your ideas. Like: [ideasai](https://ideasai.net), [random idea generator](http://randomideagenerator.com), or [app name generator](https://generatorfun.com/app-name-generator)
