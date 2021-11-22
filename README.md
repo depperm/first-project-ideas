@@ -251,6 +251,7 @@ Other lists looking for help: [code triage](https://www.codetriage.com/), [githu
 - [I need practice programming, 49 game clone ideas](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 - [What should I make beginner programming project ideas](https://www.programmingforbeginnersbook.com/blog/what_should_i_make_beginner_programming_project_ideas/)
 - [mega project list](https://github.com/karan/Projects)
+- [project based learning](https://github.com/practical-tutorials/project-based-learning)
 - [Martyr2s Mega Project List](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/): kinda makes this one feel obsolete...
 
 ## Other Other
