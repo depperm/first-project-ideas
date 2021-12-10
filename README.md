@@ -1,5 +1,5 @@
 # First? Project Ideas
-So you've completed a course, tutorial, or are just plain bored and want to see what you can do with your knowledge you've acquired, except you don't know how to demonstrate all your ideas and concepts you've filled your head with. Worry not, for here is a list of ideas that anyone can try.
+So you've completed a course, tutorial, or are just plain bored and want to see what you can do with your knowledge you've acquired, except you don't know how to demonstrate all your ideas and concepts you've filled your head with. Worry not, for here is a list of ideas that anyone can try. Don't like what you see, worry not, contained within are links to several other lists and sites with more possibilities.
 
 This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) which hasn't seen any changes in three years. Hopefully this list will provide ideas for those looking to showcase their skills. Dosed heavily with sarcasm and satire to make the list more memorable.
 
@@ -167,6 +167,17 @@ There are other challenges out there beyond these listed on such sites like: ,  
 
     The holiday season can be so stressful, lighten your holidays by solving complex problems with a fun story. What couldn't be more stress free than that?
 - [Hacker Rank](https://www.hackerrank.com)
+- [Synacor](https://challenge.synacor.com)
+- [Code Forces](http://codeforces.com/problemset)
+- [Leetcode](https://leetcode.com/problemset/algorithms/)
+- [Code Kata](http://codekata.com)
+- [Codility](https://app.codility.com/programmers/)
+- [Code Monk](https://www.hackerearth.com/practice/codemonk/)
+- [Cryptopals](https://cryptopals.com)
+- [Code Chef](https://www.codechef.com)
+- [Exercism](https://exercism.org)
+- [Kattis](https://open.kattis.com)
+- [Sphere Online Judge](https://www.spoj.com/problems/classical/)
 - [/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
     Spread the *fun* of learning to everyday
