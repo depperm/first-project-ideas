@@ -11,11 +11,13 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
   - [Other](#other)
 - [Algorithm Challenges](#algorithm-challenges)
   - [Procedural Generation](#procedural-generation) 
+  - [Challenge Sites](#challenge-sites)
 - [Multi component](#multi-component)
 - [Language/Device Specific](#languagedevice-specific)
 - [Open Source Help](#open-source-help)
   - [OS Games](#os-games)
   - [OS Other](#os-other)
+  - [OS Help Wanted](#os-help-wanted)
 - [Other Lists](#other-lists)
 - [Other Other](#other-other)
 
@@ -140,7 +142,7 @@ Its like the [remembrall](https://harrypotter.fandom.com/wiki/Remembrall) except
     There are lots of workouts out there. If you made a program to generate workouts based on time, muscle groups, and type (HITT, cardio, weight, etc) you could probably create and have all known workouts.
 
 ## Algorithm Challenges
-There are other challenges out there beyond these listed on such sites like: [code abbey](http://www.codeabbey.com/), [projecteuler](https://projecteuler.net/) or [codewars](https://www.codewars.com/)
+There are other challenges out there beyond these listed on such sites like: ,  or 
 
 ### Procedural Generation
 - Maze generation
@@ -152,11 +154,27 @@ There are other challenges out there beyond these listed on such sites like: [co
 - PRNG
 
     Ever want to get a random choice? Dive into how random numbers are generated and make your own generator. Maybe its xorshift, mersenne twiser, linear congruential generators, or something else. Be random.
+    
+### Challenge Sites
+- [Code Abbey](http://www.codeabbey.com/) 
+- [Project Euler](https://projecteuler.net/)
+
+    Here's a site where you'll find how much you really don't understand math
+- [Code Wars](https://www.codewars.com/)
+
+    Pick your poison....literally pick which language you want, difficulty of challenge you're looking for, and chose a problem.
+- [Advent of Code](https://adventofcode.com)
+
+    The holiday season can be so stressful, lighten your holidays by solving complex problems with a fun story. What couldn't be more stress free than that?
+- [Hacker Rank](https://www.hackerrank.com)
+- [/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+
+    Spread the *fun* of learning to everyday
 
 ### Other Algorithms
 - Knapsack
 
-    What is the most ebooks you can buy with x dollars (pages to dollar)? What is the most hot dogs you can get with x dollars? These are all very important questions. This algorithm can figure it out.
+    What is the most ebooks you can buy with x dollars (pages per dollar)? What is the most hot dogs you can get with x dollars? These are all very important questions. This algorithm can tell you these important answers if you do it right.
 - Sudoku Generator/Solver
 
     Nine by nine grid, filled with one through nine with each row, column, and block(3x3) containing no repeats. Nein, nine isn't used too much. *Start creating the solver first.*
@@ -210,7 +228,6 @@ See also: [Open Source Help](#open-source-help)
 ## Open Source Help
 Why start from scratch. Find someone else's project that got out of hand and help them wrangle the beast.
 
-Other lists looking for help: [code triage](https://www.codetriage.com/), [github-help-wanted](http://github-help-wanted.com/), or [great for new contributors](https://github.com/showcases/great-for-new-contributors)
 ### OS Games
 - 0 AD <img src="https://badgen.net/badge/language/javascript/yellow"><img src="https://badgen.net/badge/language/c++/red">
 
@@ -241,6 +258,12 @@ Other lists looking for help: [code triage](https://www.codetriage.com/), [githu
 - NASA OpenMCT <img src="https://badgen.net/badge/language/javascript/yellow"><img src="https://badgen.net/badge/language/vue/green">
 
     [github](https://github.com/nasa/openmct)
+    
+### OS Help Wanted
+- [code triage](https://www.codetriage.com/)
+- [github-help-wanted](http://github-help-wanted.com/)
+- [Great for new contributors](https://github.com/showcases/great-for-new-contributors)
+- [Up for Grabs](https://up-for-grabs.net/#/)
 
 ## Other Lists
 - [what to code](https://what-to-code.com/)
