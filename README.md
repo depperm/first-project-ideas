@@ -243,6 +243,7 @@ See also: [Open Source Help](#open-source-help)
 ## Open Source Help
 
 ![Commit strip OS!](https://www.commitstrip.com/wp-content/uploads/2014/05/Strip-Vision-Open-source-650-finalenglish.jpg "Commit strip os")
+
 Why start from scratch. Find someone else's project that got out of hand and help them wrangle the beast.
 
 ### OS Games
