@@ -241,6 +241,8 @@ See also: [Open Source Help](#open-source-help)
     Are QR codes still a thing? Just in case make something that can read them because you sure can't. If they aren't a thing, you better make something that can make a QR code.
 
 ## Open Source Help
+
+![Commit strip OS!](https://www.commitstrip.com/wp-content/uploads/2014/05/Strip-Vision-Open-source-650-finalenglish.jpg "Commit strip os")
 Why start from scratch. Find someone else's project that got out of hand and help them wrangle the beast.
 
 ### OS Games
