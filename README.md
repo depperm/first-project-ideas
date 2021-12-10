@@ -153,6 +153,8 @@ There are other challenges out there beyond these listed on such sites like: ,  
     Can you guess what someone is going to say n... Jinx! This basically guesses for you.
 - PRNG
 
+    ![Dilbert Random Gen!](https://www.random.org/analysis/dilbert.jpg "Dilbert Random Gen")
+
     Ever want to get a random choice? Dive into how random numbers are generated and make your own generator. Maybe its xorshift, mersenne twiser, linear congruential generators, or something else. Be random.
     
 ### Challenge Sites
@@ -204,6 +206,8 @@ See also: [Recreate the Greats](#recreate-the-greats)
 
     You've selected an idea and now need to keep yourself and/or team organized, but alas [trello](https://trello.com) is too complicated. Why not create a simpler version, like a much simpler version.
 - Messaging app
+
+    ![Foxtrot father's day!](https://foxtrot.com/wp-content/uploads/2014/06/ft140615-foxtrot-comics-bill-amend-reply-all-fathers-day-email-text-facebook-sunday-comic-strip.png "Foxtrot Father's Day")
 
     Why rely on legacy, bloated apps that everyone uses to message others? Why not create a minimal, bug...feature filled app to message those closest to you.
 - Poll taker
