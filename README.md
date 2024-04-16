@@ -7,6 +7,7 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
 
 - [Visual/GUI Oriented](#visualgui-oriented)
   - [Simple Games](#simple-games)*
+  - [More Complex Games](#more-complex-games)
   - [Recreate the Greats](#recreate-the-greats)
   - [Other](#other)
 - [Algorithm Challenges](#algorithm-challenges)
@@ -27,46 +28,36 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
 Games are fun. Making them is sooo simple. Start on of these projects and soon enough you'll be playing a AAA level game because you'll want to relax after searching for ten hours for a typo in your code that breaks everything occasionally, but frequently enough make the game unplayable and to drive you crazy. [Make Video Games](https://www.youtube.com/watch?v=aMc-GKv5olA&t=702s) (you don't need to be talented with artistic talent)
 ![image](https://github.com/depperm/first-project-ideas/assets/8761660/73bb81f6-9fbb-400a-aafd-b8bca7eacd33)
 
-- Arcade Shooter
+- Arcade Shooter (space invaders to Galaxian)
 
     Fly around while blasting enemies that conveniently line up in groups and don't dodge. Sound too simple? Then add upgrades, high score, multiple/endless levels, and other totally unique ideas.
 - Asteroids
 
     Pew, pew, pew. Shoot bullets from a triangle(ship) to destroy low poly circles (asteroids) and trapezoids(alien). Score arbitary points, fly around, and most important don't die by an asteroid.
   
-- Bejeweled/Candy Crush
-
-    Connect 3+ shapes from a grid to have new shapes drop down. Have combos do interesting things, have multipliers do something else in the game, have boosts, have special squares, or don't use squares at all.
 - Brick Break
 
     Since early gaming was around, [aquanoid](https://www.playdosgames.com/online/aquanoid/) has shown us that mankind likes to break things, specifically bricks. You know you want to break bricks so why not make some bricks to break.
 - Frogger
 
     Why did the chicken cross the road, because the frog couldn't. Honestly just help the frog cross the road, and avoid those cars.
-- Game Jam
-
-    Sometimes all you need is a random idea and a deadline to really squeeze a project out. There are hundreds of game jams to choose from, and you will hopefully be able to produce something unique as well. Thousands of monkeys pounding on typewriters will eventually produce a shakespearean work, just think you could be that monkey.
-    - [js13k](https://js13kgames.com/)
-    - [itch.io jams](https://itch.io/jams)
-    - [indie game jams](http://www.indiegamejams.com/)
  
-- Horde Survivor
 
-    How long can you survive against countless enemies? Enough to upgrade your stick into a wizard staff and your rock into gatling gun? What do you have that they want? Nobody knows but the sense of superiority at surving is real.
 
-- Idle
+- Match Objects (Bejeweled or Candy Crush)
 
-    Play a game by not playing it. Play the game for a brief moment to upgrade everything and then wait. [Math of Idle Games](https://blog.kongregate.com/the-math-of-idle-games-part-i/)
-
+    Connect 3+ shapes from a grid to have new shapes drop down. Have combos do interesting things, have multipliers do something else in the game, have boosts, have special squares, or don't use squares at all.
 - Minesweeper
 
     A grid with some number of hidden mines. Click to clear areas, see nearby mines, flag mines, or EXPLODE.
 - Pacman
 
     Be a lemon pie, lose a slice, gain the slice back. Now move around eating dots while being chased by ghosts. Eat fruit to be able to eat ghosts. This game really makes no sense.
+
 - Pong
 
     One of the oldest of video games, this sure needs an upgrade like computer player, difficulty, color, sound, lights.... [the game](https://www.ponggame.org)
+
 - Scattergories
 
     Generate 12 random topics (ice cream flavor, programming language, etc), a random letter, and set a timer. [the game](https://swellgarfo.com/scattergories/)
@@ -82,6 +73,31 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
 - Tower Defense
 
     Defend your base from invaders by building towers along the path, just make sure there is a path still so they stand a chance though.
+
+### More Complex Games
+
+- FPS (doom to counter strike)
+
+   Is character animation too hard, omit that from the equation all together. Still have to do everything else.
+- Game Jam
+
+    Sometimes all you need is a random idea and a deadline to really squeeze a project out. There are hundreds of game jams to choose from, and you will hopefully be able to produce something unique as well. Thousands of monkeys pounding on typewriters will eventually produce a shakespearean work, just think you could be that monkey.
+    - [js13k](https://js13kgames.com/)
+    - [itch.io jams](https://itch.io/jams)
+    - [indie game jams](http://www.indiegamejams.com/)
+
+- Horde Survivor
+
+    How long can you survive against countless enemies? Enough to upgrade your stick into a wizard staff and your rock into gatling gun? What do you have that they want? Nobody knows but the sense of superiority at surving is real.
+
+- Idle Game
+
+    Play a game by not playing it. Let the player interact as little as possible with your graphics but still succeed. The math is the hard part. [Math of Idle Games](https://blog.kongregate.com/the-math-of-idle-games-part-i/)
+ - Puzzle Platformer (Secret Agent Man to Mario)
+
+    Have a character run around doing increasingly, ridiculous things with minimal upgrades.
+- Single Player RPG (Runescape)
+    Even sticking to a single player this is a complex undertaking. From 2D to isometric to 3D the complexity is not linear.
 
 ### Recreate the Greats
 These are massive undertakings, but the best form of flattery is imitation. Like only do these if you want to work on something for a looooong time or like inflicting torture on your mind.
@@ -349,3 +365,5 @@ Why start from scratch. Find someone else's project that got out of hand and hel
 
 ## Other Other
 Use someone else's app to get your ideas. Like: [ideasai](https://ideasai.net), [random idea generator](http://randomideagenerator.com), or [app name generator](https://generatorfun.com/app-name-generator)
+
+The tense in this README is quite sarcastic. It is meant to be funny. I enjoy the challenges programming gives me even when I have to beat my program into compliance. There is a sense of accomplishment from from creating something or seeing how something works under the hood. Trial and error are great tools for learing new things and hope someone gets inspired from this list. There are great resources out there, but my best advice is to see something you like or think of something you want and just start doing. The language doesn't matter, nor do the tools. You'll learn, make mistakes, and if you're lucky end up with a finished product. Add it to your toolbelt (github) and repeat. You didn't fail to create something, you figured out one way of not doing something, but luckily programming offers a plethora of ways of accomplishing tasks.
