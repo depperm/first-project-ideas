@@ -23,10 +23,10 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
 - [Other Other](#other-other)
 
 ## Visual/GUI Oriented
+![https://github.com/depperm/first-project-ideas/assets/8761660/83319738-bbad-40e2-9332-83567c2763c9](https://imgs.xkcd.com/comics/game_ais.png)
 
 ### Simple Games*
-Games are fun. Making them is sooo simple. Start on of these projects and soon enough you'll be playing a AAA level game because you'll want to relax after searching for ten hours for a typo in your code that breaks everything occasionally, but frequently enough make the game unplayable and to drive you crazy. [Make Video Games](https://www.youtube.com/watch?v=aMc-GKv5olA&t=702s) (you don't need to be talented with artistic talent)
-![image](https://github.com/depperm/first-project-ideas/assets/8761660/73bb81f6-9fbb-400a-aafd-b8bca7eacd33)
+Games are fun. Making them is sooo simple. Start on of these projects and soon enough you'll be playing a AAA level game because you'll want to relax after searching for ten hours for a typo in your code that breaks everything occasionally, but frequently enough make the game unplayable and to drive you crazy. If any of these seem too easy, make it multiplayer, or add an intelligent AI (not generative AI, a fake AI player to beat the player). [Make Video Games](https://www.youtube.com/watch?v=aMc-GKv5olA&t=702s) (you don't need to be talented with artistic talent)
 
 - Arcade Shooter (space invaders to Galaxian)
 
@@ -42,8 +42,6 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
 
     Why did the chicken cross the road, because the frog couldn't. Honestly just help the frog cross the road, and avoid those cars.
  
-
-
 - Match Objects (Bejeweled or Candy Crush)
 
     Connect 3+ shapes from a grid to have new shapes drop down. Have combos do interesting things, have multipliers do something else in the game, have boosts, have special squares, or don't use squares at all.
@@ -76,6 +74,7 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
 
 ### More Complex Games
 
+![image](https://github.com/depperm/first-project-ideas/assets/8761660/73bb81f6-9fbb-400a-aafd-b8bca7eacd33)
 - FPS (doom to counter strike)
 
    Is character animation too hard, omit that from the equation all together. Still have to do everything else.
@@ -96,7 +95,7 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
  - Puzzle Platformer (Secret Agent Man to Mario)
 
     Have a character run around doing increasingly, ridiculous things with minimal upgrades.
-- Single Player RPG (Runescape)
+- Single Player RPG (Nethack to Runescape)
     Even sticking to a single player this is a complex undertaking. From 2D to isometric to 3D the complexity is not linear.
 
 ### Recreate the Greats
@@ -118,7 +117,7 @@ These are massive undertakings, but the best form of flattery is imitation. Like
 
     Does your friend have a great idea for a website. Instead of making it for them, allow them to create their own webpage with your own CMS. Make sure to charge the family/friend rate.
 
-- Progamming Language
+- Progamming Language (or framework)
 
     Every language seems to have haters for minor issues. Obviously these issues can be addressed with a new language that you create that is optimized for every use case and has no downsides. Need a starting place look at [crafting interpreters](https://craftinginterpreters.com)
 
@@ -151,9 +150,9 @@ These are massive undertakings, but the best form of flattery is imitation. Like
     ![XKCD password complexity!](https://imgs.xkcd.com/comics/password_strength.png "XKCD password complexity")
 
     [In-depth explanation](https://theworld.com/~reinhold/diceware.html) This isn't necessarily the most exciting app so spruce this up with a nice GUI and options (character replacing, number of words, etc)
-- Editor
+- Text Editor
 
-    From the simple [notepad++](http://notepad-plus-plus.org) to the sophisticated vim, everyone loves opening, editing, and saving documents. If this seems like an easy project(I don't think you fully grasp the complexity), add complexity by adding additional features (multiple file extension support, find/replace, syntax highlighting). Make sure you can use it any where by making it cross platform, if you really want to make this project bigger.
+    From the simple [notepad++](http://notepad-plus-plus.org) to the sophisticated vim, everyone loves opening, editing, and saving documents. If this seems like an easy project(I don't think you fully grasp the complexity), add complexity by adding additional features (multiple file extension support, find/replace, syntax highlighting). Make sure you can use it any where by making it cross platform, if you really want to make this project bigger. Don't forget to implement undo/redo for when you make mistakes.
     - For added complexity increase file size to 1 BILLION lines and optimize your code (see [1 billion line challenge](https://github.com/gunnarmorling/1brc/blob/main/1brc.png))
 - Fund comparison
 
