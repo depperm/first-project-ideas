@@ -25,6 +25,8 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
 
 ### Simple Games*
 Games are fun. Making them is sooo simple. Start on of these projects and soon enough you'll be playing a AAA level game because you'll want to relax after searching for ten hours for a typo in your code that breaks everything occasionally, but frequently enough make the game unplayable and to drive you crazy. [Make Video Games](https://www.youtube.com/watch?v=aMc-GKv5olA&t=702s) (you don't need to be talented with artistic talent)
+![image](https://github.com/depperm/first-project-ideas/assets/8761660/73bb81f6-9fbb-400a-aafd-b8bca7eacd33)
+
 - Arcade Shooter
 
     Fly around while blasting enemies that conveniently line up in groups and don't dodge. Sound too simple? Then add upgrades, high score, multiple/endless levels, and other totally unique ideas.
