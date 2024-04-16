@@ -30,7 +30,7 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
     Fly around while blasting enemies that conveniently line up in groups and don't dodge. Sound too simple? Then add upgrades, high score, multiple/endless levels, and other totally unique ideas.
 - Asteroids
 
-    Pew, pew, pew. Shoot bullets from a triangle(ship) to destroy low poly circles (asteroids) and trapezoids(alien). Score arbitary points, fly around, and most important don't die like your bullets will.
+    Pew, pew, pew. Shoot bullets from a triangle(ship) to destroy low poly circles (asteroids) and trapezoids(alien). Score arbitary points, fly around, and most important don't die by an asteroid.
 - Brick Break
 
     Since early gaming was around, [aquanoid](https://www.playdosgames.com/online/aquanoid/) has shown us that mankind likes to break things, specifically bricks. You know you want to break bricks so why not make some bricks to break.
@@ -65,6 +65,9 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
 - Tetris
 
     Every configuration of four blocks orthogonally connected, you control their fall downward, complete rows, and keep it from reaching the top. Did I mention it gets faster the longer you play.
+- Bejeweled/Candy Crush
+
+    Connect 3+ shapes from a grid to have new shapes drop down. Have combos do interesting things, have multipliers do something else in the game, have boosts, have special squares, or don't use squares at all.
 
 ### Recreate the Greats
 These are massive undertakings, but the best form of flattery is imitation. Like only do these if you want to work on something for a looooong time or like inflicting torture on your mind.
@@ -76,10 +79,18 @@ These are massive undertakings, but the best form of flattery is imitation. Like
     Everyone loves [stackoverflow](https://stackoverflow.com)? Can you create an app that mimics the base features: users can ask questions, users can answer questions, and users can vote on both. Do you want to up the difficulty and tort....showcase your skills, add in more of the features (user accounts, tags, reviewing, comments, etc)
 - Seenit
 
-    Have a question that nobody else can answer? What to answer questions about particular r/ subjects? Don't trust the internet, then make your own. Make a place where you are control.
+    Have a question that nobody else can answer? Want to organize content by s/ subjects? Don't trust the internet, then make your own. Make a place where you are control.
 - Wikiwannabe
 
     Who hasn't used this unofficial source while researching some topic. Just think your own personal wiki that contains all that you know, this should be easy.
+
+- CMS (Content Management System)
+
+    Does your friend have a great idea for a website. Instead of making it for them, allow them to create their own webpage with your own CMS. Make sure to charge the family/friend rate.
+
+- Progamming Language
+
+    Every language seems to have haters for minor issues. Obviously these issues can be addressed with a new language that you create that is optimized for every use case and has no downsides. Need a starting place look at [crafting interpreters](https://craftinginterpreters.com)
 
 ### Other
 - Boids
@@ -87,7 +98,7 @@ These are massive undertakings, but the best form of flattery is imitation. Like
     Birds of a feather flock together. Who goes outside to see that though when you can simulate that on your computer screen.
 - Budget/Expenses Tracker
 
-    [Don't buy stuff you can't afford](https://www.youtube.com/watch?v=R3ZJKN_5M44&t=3s). How do you know what you can't afford, track your expenses. Adding fun charts always makes a project look nicer.
+    [Don't buy stuff you can't afford](https://www.youtube.com/watch?v=R3ZJKN_5M44&t=3s). How do you know what you can't afford, track your expenses. Adding fun charts always makes a project look nicer. Mint recently closed so there is a clearer market.
 - Calculator
 
     Calculate math equations solutions so you don't have to in your head. Varying degrees of difficulty:
@@ -99,7 +110,7 @@ These are massive undertakings, but the best form of flattery is imitation. Like
     Everyone wants to lose something sometime. Let users tediously enter calories so they can track their eaten calories. They should also be able to enter their weight at varying time, vague exercise (calorie output), and have nice charts.
 - Converter
 
-    Does a chocolate chip cookie have more energy than TNT. Don't google it, create a converter to convert from one format to another. Euros to dollars, pounds to kilos, calories to energy, inches to centimeters, or something else. Convert your boring life to one full of stress debugging this doozy.
+    Does a chocolate chip cookie have more energy than TNT. Don't google it, create a converter to convert from one format to another. Euros to dollars, pounds to kilos, calories to energy, inches to centimeters, and everything in between. Convert your boring life to one full of stress debugging this doozy.
 - Death Clock/Calculator
 
     Predicate when you will die based on statistics for your age, gender, habits, and location. Expected use would be to change ones conditions to have a later death date, get that high score.
@@ -111,6 +122,7 @@ These are massive undertakings, but the best form of flattery is imitation. Like
 - Editor
 
     From the simple [notepad++](http://notepad-plus-plus.org) to the sophisticated vim, everyone loves opening, editing, and saving documents. If this seems like an easy project(I don't think you fully grasp the complexity), add complexity by adding additional features (multiple file extension support, find/replace, syntax highlighting). Make sure you can use it any where by making it cross platform, if you really want to make this project bigger.
+    - For added complexity increase file size to 1 BILLION lines and optimize your code (see [1 billion line challenge](https://github.com/gunnarmorling/1brc/blob/main/1brc.png))
 - Fund comparison
 
     Don't know how best to invest your hard earned money. Don't believe a trusted financial planner, instead make a totally safe app that can compare any ETF, mutual fund, stock, etc. Plan how to use money you don't have yet, by relying on a *stable* market.
@@ -142,7 +154,11 @@ Its like the [remembrall](https://harrypotter.fandom.com/wiki/Remembrall) except
     There are lots of workouts out there. If you made a program to generate workouts based on time, muscle groups, and type (HITT, cardio, weight, etc) you could probably create and have all known workouts.
 
 ## Algorithm Challenges
-There are other challenges out there beyond these listed on such sites like: ,  or 
+There are a bunch of [algorithms](https://visualgo.net/en) out there, can you figure out how to implement them? What about real world use cases?
+
+- [10 weird algorithms](https://youtu.be/SmyPTnlqhlk?si=vUiCTRFA6IhvUFCZ)
+- [Wikipedia's list](https://en.wikipedia.org/wiki/List_of_algorithms)
+- [NIST list](https://xlinux.nist.gov/dads/)
 
 ### Procedural Generation
 - Maze generation
@@ -156,8 +172,17 @@ There are other challenges out there beyond these listed on such sites like: ,  
     ![Dilbert Random Gen!](https://www.random.org/analysis/dilbert.jpg "Dilbert Random Gen")
 
     Ever want to get a random choice? Dive into how random numbers are generated and make your own generator. Maybe its xorshift, mersenne twiser, linear congruential generators, or something else. Be random.
+
+- Noise
+
+  Did you grow up enjoying static on TVs (or grow up missing static)? Noise can do some intertesting things. You can have 2D noise, 3D noise, 4D noise.... What type of noise can you make?
+  - [Worley/Voroni](https://en.wikipedia.org/wiki/Worley_noise)
+  - [Perlin](https://en.wikipedia.org/wiki/Perlin_noise)
+  - [Simplex](https://en.wikipedia.org/wiki/Simplex_noise)
     
 ### Challenge Sites
+
+Prove how good you are by solving arbitrary problems that generally have a single optimized solution. Great tools to practice for getting a job for some reason.
 - [Code Abbey](http://www.codeabbey.com/) 
 - [Project Euler](https://projecteuler.net/)
 
@@ -167,7 +192,7 @@ There are other challenges out there beyond these listed on such sites like: ,  
     Pick your poison....literally pick which language you want, difficulty of challenge you're looking for, and chose a problem.
 - [Advent of Code](https://adventofcode.com)
 
-    The holiday season can be so stressful, lighten your holidays by solving complex problems with a fun story. What couldn't be more stress free than that?
+    The holiday season can be so stressful, lighten your holidays by solving complex problems with a fun story. What couldn't be more stress free than that? Everyday solve a 2 part problem, first part can be solved by brute force usually, and the second part proves why you can't use brute force. Did I mention the problems get harder the closer you are to Christmas?
 - [Hacker Rank](https://www.hackerrank.com)
 - [Synacor](https://challenge.synacor.com)
 - [Code Forces](http://codeforces.com/problemset)
@@ -194,6 +219,10 @@ There are other challenges out there beyond these listed on such sites like: ,  
 - TOTP Generator
 
     You know those 6 digit random digits that change every 30 seconds to verify that you are you, well someone needs to generate them.
+
+- TSP (Traveling Salesman Problem)
+
+    The classic find the most efficent route problem. Many ways to approach this.
 
 ## Multi Component
 Think single user interaction is basic, try multiplayer, server/client, or user interaction.
@@ -276,6 +305,10 @@ Why start from scratch. Find someone else's project that got out of hand and hel
 - NASA OpenMCT <img src="https://badgen.net/badge/language/javascript/yellow"><img src="https://badgen.net/badge/language/vue/green">
 
     [github](https://github.com/nasa/openmct)
+
+- Cyberchef <img src="https://badgen.net/badge/language/javascript/yellow">
+
+    [github](https://github.com/gchq/CyberChef)
     
 ### OS Help Wanted
 - [code triage](https://www.codetriage.com/)
@@ -294,6 +327,8 @@ Why start from scratch. Find someone else's project that got out of hand and hel
 - [mega project list](https://github.com/karan/Projects)
 - [project based learning](https://github.com/practical-tutorials/project-based-learning)
 - [Martyr2s Mega Project List](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/): kinda makes this one feel obsolete...
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) has ideas AND some starting tutorials
+  - [Things Programmers Can Do in a Week](https://build-your-own.org/blog/20231108_1week/?id=20231108#regex)
 
 ## Other Other
 Use someone else's app to get your ideas. Like: [ideasai](https://ideasai.net), [random idea generator](http://randomideagenerator.com), or [app name generator](https://generatorfun.com/app-name-generator)
