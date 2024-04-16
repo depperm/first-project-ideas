@@ -24,13 +24,17 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
 ## Visual/GUI Oriented
 
 ### Simple Games*
-Games are fun. Making them is sooo simple. Start on of these projects and soon enough you'll be playing a AAA level game because you'll want to relax after searching for ten hours for a typo in your code that breaks everything occasionally, but frequently enough make the game unplayable and to drive you crazy.
+Games are fun. Making them is sooo simple. Start on of these projects and soon enough you'll be playing a AAA level game because you'll want to relax after searching for ten hours for a typo in your code that breaks everything occasionally, but frequently enough make the game unplayable and to drive you crazy. [Make Video Games](https://www.youtube.com/watch?v=aMc-GKv5olA&t=702s) (you don't need to be talented with artistic talent)
 - Arcade Shooter
 
     Fly around while blasting enemies that conveniently line up in groups and don't dodge. Sound too simple? Then add upgrades, high score, multiple/endless levels, and other totally unique ideas.
 - Asteroids
 
     Pew, pew, pew. Shoot bullets from a triangle(ship) to destroy low poly circles (asteroids) and trapezoids(alien). Score arbitary points, fly around, and most important don't die by an asteroid.
+  
+- Bejeweled/Candy Crush
+
+    Connect 3+ shapes from a grid to have new shapes drop down. Have combos do interesting things, have multipliers do something else in the game, have boosts, have special squares, or don't use squares at all.
 - Brick Break
 
     Since early gaming was around, [aquanoid](https://www.playdosgames.com/online/aquanoid/) has shown us that mankind likes to break things, specifically bricks. You know you want to break bricks so why not make some bricks to break.
@@ -43,6 +47,14 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
     - [js13k](https://js13kgames.com/)
     - [itch.io jams](https://itch.io/jams)
     - [indie game jams](http://www.indiegamejams.com/)
+ 
+- Horde Survivor
+
+    How long can you survive against countless enemies? Enough to upgrade your stick into a wizard staff and your rock into gatling gun? What do you have that they want? Nobody knows but the sense of superiority at surving is real.
+
+- Idle
+
+    Play a game by not playing it. Play the game for a brief moment to upgrade everything and then wait. [Math of Idle Games](https://blog.kongregate.com/the-math-of-idle-games-part-i/)
 
 - Minesweeper
 
@@ -65,9 +77,9 @@ Games are fun. Making them is sooo simple. Start on of these projects and soon e
 - Tetris
 
     Every configuration of four blocks orthogonally connected, you control their fall downward, complete rows, and keep it from reaching the top. Did I mention it gets faster the longer you play.
-- Bejeweled/Candy Crush
+- Tower Defense
 
-    Connect 3+ shapes from a grid to have new shapes drop down. Have combos do interesting things, have multipliers do something else in the game, have boosts, have special squares, or don't use squares at all.
+    Defend your base from invaders by building towers along the path, just make sure there is a path still so they stand a chance though.
 
 ### Recreate the Greats
 These are massive undertakings, but the best form of flattery is imitation. Like only do these if you want to work on something for a looooong time or like inflicting torture on your mind.
