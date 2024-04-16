@@ -15,9 +15,9 @@ This repo is inspired from [awesome-app-ideas](https://github.com/tastejs/awesom
 - [Multi component](#multi-component)
 - [Language/Device Specific](#languagedevice-specific)
 - [Open Source Help](#open-source-help)
-  - [OS Games](#os-games)
-  - [OS Other](#os-other)
-  - [OS Help Wanted](#os-help-wanted)
+  - [Open Source Games](#open-source-games)
+  - [Open Source Other](#open-source-other)
+  - [Open Source Help Wanted](#open-source-help-wanted)
 - [Other Lists](#other-lists)
 - [Other Other](#other-other)
 
@@ -107,6 +107,8 @@ These are massive undertakings, but the best form of flattery is imitation. Like
     Every language seems to have haters for minor issues. Obviously these issues can be addressed with a new language that you create that is optimized for every use case and has no downsides. Need a starting place look at [crafting interpreters](https://craftinginterpreters.com)
 
 ### Other
+![image](https://github.com/depperm/first-project-ideas/assets/8761660/fced3b8d-f12c-447f-b2ce-89ed43458e8c)
+
 - Boids
 
     Birds of a feather flock together. Who goes outside to see that though when you can simulate that on your computer screen.
@@ -195,8 +197,10 @@ There are a bunch of [algorithms](https://visualgo.net/en) out there, can you fi
   - [Simplex](https://en.wikipedia.org/wiki/Simplex_noise)
     
 ### Challenge Sites
+![image](https://github.com/depperm/first-project-ideas/assets/8761660/d5c227f6-c3ee-4dcc-9341-eea3fb40b255)
 
-Prove how good you are by solving arbitrary problems that generally have a single optimized solution. Great tools to practice for getting a job for some reason.
+
+Prove how good you are by solving arbitrary problems that generally already have a single, optimized solution. Great tools to practice for getting a job for some reason.
 - [Code Abbey](http://www.codeabbey.com/) 
 - [Project Euler](https://projecteuler.net/)
 
@@ -289,7 +293,7 @@ See also: [Open Source Help](#open-source-help)
 
 Why start from scratch. Find someone else's project that got out of hand and help them wrangle the beast.
 
-### OS Games
+### Open Source Games
 - 0 AD <img src="https://badgen.net/badge/language/javascript/yellow"><img src="https://badgen.net/badge/language/c++/red">
 
     [get involved](https://trac.wildfiregames.com/wiki/GettingStartedProgrammers) if you like playing age of empires
@@ -302,14 +306,13 @@ Why start from scratch. Find someone else's project that got out of hand and hel
 - OpenRCT2 <img src="https://badgen.net/badge/language/c++/red">
 
     [github](https://github.com/OpenRCT2/OpenRCT2) if you like playing rollercoaster tycoon
+  
+    Did you know the original Roller Coaster Tycoon was written by one guy, Chris Sawyer, primaryily in Assembly. [source](https://www.chrissawyergames.com/faq3.htmv)
 - Tuxemon <img src="https://badgen.net/badge/language/python/yellow">
 
     [github](https://github.com/Tuxemon/Tuxemon) if you like playing pokemon
 
-### OS Other
-- Atom <img src="https://badgen.net/badge/language/javascript/yellow">
-
-    [github](https://github.com/atom/atom)
+### Open Source Other
 - Blender <img src="https://badgen.net/badge/language/python/yellow">
 
     [get involved](https://www.blender.org/get-involved/)
@@ -324,7 +327,7 @@ Why start from scratch. Find someone else's project that got out of hand and hel
 
     [github](https://github.com/gchq/CyberChef)
     
-### OS Help Wanted
+### Open Source Help Wanted
 - [code triage](https://www.codetriage.com/)
 - [github-help-wanted](http://github-help-wanted.com/)
 - [Great for new contributors](https://github.com/showcases/great-for-new-contributors)
